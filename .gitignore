@@ -1,0 +1,7 @@
+# this is the .gitignore file list
+
+.DS_Store
+*.xcuserstate
+project.xcworkspace/
+xcuserdata/
+

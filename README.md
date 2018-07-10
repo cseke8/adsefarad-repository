@@ -15,3 +15,4 @@ assert.deepEqual(valid('UNLICENCED'), licensed);
 ```
 
 TEXT GOES HERE.
+# This is an echo message saved from terminal
